@@ -29,6 +29,7 @@ config = {
     production: {
         url: 'http://blog.inceptio.no',
         updateCheck: false,
+        fileStorage: false,
         mail: {
             transport: 'SMTP',
             host: 'smtp.mandrillapp.com',
