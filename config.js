@@ -27,7 +27,7 @@ config = {
         }
     },
     production: {
-        url: 'http://blog.inceptio.no',
+        url: 'http://blog.vullum.io',
         updateCheck: false,
         fileStorage: false,
         mail: {

@@ -1,2 +1,2 @@
-Inceptio blog
-=============
+Vullum.io blog
+==============

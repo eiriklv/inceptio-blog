@@ -1,11 +1,10 @@
 {
     "name": "inceptio-blog",
     "version": "0.1.0",
-    "description": "Inceptio blog - running on Ghost.",
+    "description": "vullum.io blog - running on Ghost.",
     "author": "Eirik Vullum",
-    "homepage": "http://blog.inceptio.no",
+    "homepage": "http://blog.vullum.io",
     "keywords": [
-        "inceptio",
         "blog"
     ],
     "repository": {
